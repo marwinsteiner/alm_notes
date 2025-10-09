@@ -335,3 +335,19 @@ $$GAP = RSA - RSL$$
   - a cumulative GAP
 - FRA & FRL are considered fixed over the GAP interval.
 
+## Office Hour with Sotiris:
+Question for Sotiris: How does the size of the GAP differ between banks and insurance firms, in general?
+From my experience insurance companies are generally liquidity matching, but after our first lecture I don't think 
+this is the full picture.
+
+So is the 200bps like the 95% VaR for interest rates? Is this something similar?
+Crude measure where (without a model) the regulator makes an educated judgement (guess) about the worst-case move of
+interest rates over some historical data.
+
+We have to be able to mention why banks are special in terms of ALM.
+Slides 4-14, different ways of understanding risk management and ALM of financial institutions.
+Then it's about different risks which play a role in the context of ALM.
+34 to the end is introduction to ALM. In the coming lecture we will spend the full lecture on understanding GAP 
+analysis.
+
+For the coursework, start at the dotcom bubble. 2 things happened: Athens stockmarket and dot.com bubble burst.
