@@ -53,3 +53,9 @@ positive. This setup immunizes the institution against rate shocks and helps pre
 
 Look at the two problem sets in the slides -- especially at the quuestions with the strange font at the bottom.
 
+What is the cornerstone of modern Portfolio Theory, or Markowitz's approach?
+
+The cornerstone of Modern Portfolio Theory is diversification to optimize risk-adjusted returns. Harry Markowitz's key
+insight was that combining assets with different risk and return profiles can reduce overall portfolio risk without
+sacrificing expected return. Essentially, the construction of portfolios that maximize expected return for a given level
+of risk.
